@@ -1,6 +1,7 @@
 Taux_glyce\TauxGlyceApplication.class
 Taux_glyce\Controller\GlycemieController.class
 Taux_glyce\Model\Glycemie.class
+Taux_glyce\TauxGlyceApplication$1.class
 Taux_glyce\Service\glycemieServiceImpl.class
 Taux_glyce\Service\GlycemieService.class
 Taux_glyce\Repositorie\Glycemierepository.class

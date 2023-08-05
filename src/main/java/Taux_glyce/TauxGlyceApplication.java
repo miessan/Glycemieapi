@@ -12,6 +12,7 @@ public class TauxGlyceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TauxGlyceApplication.class, args);
 	}
+
 	@Bean
     public WebMvcConfigurer corsConfigurer() {
         return new WebMvcConfigurer() {
